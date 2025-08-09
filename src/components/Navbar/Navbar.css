@@ -30,3 +30,17 @@ nav {
     width: 400px;
     background: transparent;
 }
+
+.nav-middle .search-box img {
+    width: 15px;
+}
+
+.nav-right img {
+    width: 25px;
+    margin-right: 25px;
+}
+
+.nav-right .user-icon {
+    width: 35px;
+    border-radius: 50%;
+}
